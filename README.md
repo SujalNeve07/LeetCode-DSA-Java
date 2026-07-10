@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +76,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
+| [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
