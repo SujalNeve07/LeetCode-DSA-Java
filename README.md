@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
