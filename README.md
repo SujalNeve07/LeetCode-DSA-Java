@@ -34,8 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
