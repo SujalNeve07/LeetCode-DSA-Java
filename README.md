@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
