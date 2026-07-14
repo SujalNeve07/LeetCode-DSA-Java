@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1291-sequential-digits) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
