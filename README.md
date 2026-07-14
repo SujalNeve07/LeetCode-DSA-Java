@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
