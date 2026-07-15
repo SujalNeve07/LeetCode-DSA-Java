@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
@@ -120,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
