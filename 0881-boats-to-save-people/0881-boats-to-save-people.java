@@ -10,9 +10,12 @@ class Solution {
             if(sum<=limit)
             {
                 left++;
-               
+                right--;
             }
-           right--;
+            else
+            {
+                right--;
+            }
             boats++;
         }
         return boats;
