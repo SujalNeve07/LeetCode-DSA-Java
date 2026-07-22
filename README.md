@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0148-sort-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
