@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
+| [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Merge Sort
 |  |
@@ -173,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
