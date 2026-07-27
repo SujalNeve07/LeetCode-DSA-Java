@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Enumeration
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
