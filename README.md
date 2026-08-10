@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
