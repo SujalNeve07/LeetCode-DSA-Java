@@ -9,15 +9,23 @@ class Solution {
 
     public void backtrack(int[] nums, int start, List<List<Integer>> ans, List<Integer> curr)
     {
+        if(ans.contains(curr))
+        {
+            return;
+        }
+      
         ans.add(new ArrayList<>(curr));
+        
 
         for(int i=start;i<nums.length;i++)
         {
             // skip the duplicate elemennts
-            if(i>start && nums[i]==nums[i-1])
-            {
-                continue;
-            }
+                // if(i>start && nums[i]==nums[i-1])
+                // {
+                //     continue;
+                // }
+
+            
 
             // pick
             curr.add(nums[i]);
