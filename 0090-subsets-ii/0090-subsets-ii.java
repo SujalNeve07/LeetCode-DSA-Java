@@ -4,7 +4,6 @@ class Solution {
         Arrays.sort(nums);
         backtrack(nums,0,ans,new ArrayList<>());
         return ans;
-        
     }
 
     public void backtrack(int[] nums, int start, List<List<Integer>> ans, List<Integer> curr)
@@ -13,9 +12,8 @@ class Solution {
         {
             return;
         }
-      
+
         ans.add(new ArrayList<>(curr));
-        
 
         for(int i=start;i<nums.length;i++)
         {
@@ -24,8 +22,6 @@ class Solution {
                 // {
                 //     continue;
                 // }
-
-            
 
             // pick
             curr.add(nums[i]);
