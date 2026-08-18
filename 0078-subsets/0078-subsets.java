@@ -3,13 +3,11 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         backtrack(nums,0,new ArrayList<>(),ans);
         return ans;
-
-        
     }
 
     public void backtrack(int[] nums,int start,List<Integer> curr,List<List<Integer>> ans)
     {
-        // Evevry current subset is a valid answer
+        // Every current subset is a valid answer
         ans.add(new ArrayList<>(curr));
 
         for(int i=start; i<nums.length;i++)
@@ -22,6 +20,5 @@ class Solution {
             curr.remove(curr.size()-1);
             
         }
-
     }
 }
