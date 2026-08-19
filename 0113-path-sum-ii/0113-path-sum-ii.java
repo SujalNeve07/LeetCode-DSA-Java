@@ -36,7 +36,7 @@ class Solution {
             ans.add(new ArrayList<>(curr));
         }
 
-        // recursively call the function
+        // recursively call the function (here we are calculationg the intermediate node values for targetsum - root.val)
         backtrack(root.left,targetSum-root.val,ans,curr);
         backtrack(root.right,targetSum-root.val,ans,curr);
 
