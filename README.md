@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 ## Breadth-First Search
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Recursion
 |  |
@@ -269,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
