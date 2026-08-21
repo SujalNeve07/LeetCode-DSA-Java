@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
 ## Breadth-First Search
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
