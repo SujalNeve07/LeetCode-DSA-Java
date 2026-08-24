@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Recursion
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
