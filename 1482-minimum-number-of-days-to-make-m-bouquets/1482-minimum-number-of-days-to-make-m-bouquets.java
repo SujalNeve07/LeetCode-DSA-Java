@@ -1,61 +1,56 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-
-         // Total flowers required
-        if ((long) m * k > bloomDay.length) {
+        long required = (long) m*k;
+        if(required>bloomDay.length)
+        {
             return -1;
         }
 
-        int low = 1;
-        int high = 0;
-
-        // Find maximum bloom day
-        for (int day : bloomDay) {
-            high = Math.max(high, day);
+        int low = Integer.MAX_VALUE;
+        int high = Integer.MIN_VALUE;
+        for(int x: bloomDay)
+        {
+            low = Math.min(low,x);
+            high = Math.max(high,x);
         }
 
         // Binary Search
-        while (low < high) {
-
-            int mid = low + (high - low) / 2;
-
-            if (isPossible(bloomDay, m, k, mid)) {
-                high = mid;       // Try smaller day
-            } else {
-                low = mid + 1;    // Need more days
+        while(low<high)
+        {
+            int mid = low + (high-low)/2;
+            if(canMake(bloomDay,m,k,mid))
+            {
+                high = mid;
+            }
+            else
+            {
+                low = mid+1;
             }
         }
-
         return low;
         
     }
-     public boolean isPossible(int[] bloomDay, int m, int k, int day) {
 
+    public boolean canMake(int[] bloomDay, int m, int k,int day)
+    {
         int flowers = 0;
         int bouquets = 0;
-
-        for (int i = 0; i < bloomDay.length; i++) {
-
-            if (bloomDay[i] <= day) {
+        for(int x: bloomDay)
+        {
+            if(x<=day)
+            {
                 flowers++;
-
-                // k consecutive flowers
-                if (flowers == k) {
+                if(flowers==k)
+                {
                     bouquets++;
                     flowers = 0;
                 }
-
-            } else {
-                // Consecutive sequence breaks
+            }
+            else
+            {
                 flowers = 0;
             }
-
-            if(bouquets>=m)
-            {
-                return true;
-            }
         }
-
-        return false;
+        return bouquets >=m;
     }
 }
