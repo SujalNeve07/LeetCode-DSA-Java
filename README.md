@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Recursion
 |  |
@@ -299,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0450-delete-node-in-a-bst) |
 ## Knapsack Problem
 |  |
@@ -322,5 +325,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0450-delete-node-in-a-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
