@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0704-binary-search) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
 ## Tree
@@ -356,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
