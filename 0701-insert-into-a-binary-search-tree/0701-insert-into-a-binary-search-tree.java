@@ -19,12 +19,12 @@ class Solution {
         {
             return new TreeNode(val);
         }
-        // got to left subtree
+        // go to left subtree
         if(val<root.val)
         {
             root.left = insertIntoBST(root.left,val);
         }
-        // got or right subtree
+        // go or right subtree
         else
         {
             root.right = insertIntoBST(root.right,val);
