@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
@@ -377,4 +378,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
