@@ -24,6 +24,7 @@ class Solution {
         {
             root.left = insertIntoBST(root.left,val);
         }
+        // got or right subtree
         else
         {
             root.right = insertIntoBST(root.right,val);
