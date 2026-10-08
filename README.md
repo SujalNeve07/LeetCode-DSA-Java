@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
