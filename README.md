@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2679-sum-in-a-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
+| [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2679-sum-in-a-matrix) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2679-sum-in-a-matrix) |
 ## Linked List
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
