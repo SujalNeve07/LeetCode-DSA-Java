@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -484,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
