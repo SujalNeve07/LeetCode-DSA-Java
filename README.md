@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -475,10 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 ## Nim Game
 |  |
 | ------- |
@@ -503,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
