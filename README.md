@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
 ## Sorting
