@@ -515,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
