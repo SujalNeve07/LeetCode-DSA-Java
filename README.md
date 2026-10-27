@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 | [3870-count-commas-in-range](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
