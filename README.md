@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0036-valid-sudoku) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0086-partition-list) |
