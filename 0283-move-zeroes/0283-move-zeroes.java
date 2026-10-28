@@ -7,13 +7,15 @@ class Solution {
         {
             if(value !=0)
             {
-                nums[index++] = value;
+                nums[index] = value;
+                index++;
             }
         }
 
         while(index < nums.length)
         {
-            nums[index++] = 0;
+            nums[index] = 0;
+            index++;
         }
         
         System.out.println(Arrays.toString(nums));
