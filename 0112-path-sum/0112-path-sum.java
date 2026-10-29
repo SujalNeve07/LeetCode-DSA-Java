@@ -23,7 +23,8 @@ class Solution {
 
     public void helper(TreeNode root, int targetSum, int currentSum) {
         // base condition
-        
+        if (flag)
+            return;
         if (root == null)
             return;
 
