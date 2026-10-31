@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -396,11 +397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0306-additive-number) |
+| [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
