@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0509-fibonacci-number) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
