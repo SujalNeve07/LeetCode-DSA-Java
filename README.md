@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2643-row-with-maximum-ones) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2679-sum-in-a-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2679-sum-in-a-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
