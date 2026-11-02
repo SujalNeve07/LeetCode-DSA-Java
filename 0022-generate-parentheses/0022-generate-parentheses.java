@@ -12,6 +12,7 @@ class Solution {
         if(s.length()==2*n)
         {
             ans.add(s);
+            return;
         }
 
         // Ithe apan opening bracket add karto
