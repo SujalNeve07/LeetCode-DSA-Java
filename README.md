@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2326-spiral-matrix-iv) |
+| [2390-removing-stars-from-a-string](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2679-sum-in-a-matrix) |
 ## Linked List
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
+| [2390-removing-stars-from-a-string](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
