@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
