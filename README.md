@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0658-find-k-closest-elements) |
