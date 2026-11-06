@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1679-max-number-of-k-sum-pairs) |
