@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0867-transpose-matrix) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
