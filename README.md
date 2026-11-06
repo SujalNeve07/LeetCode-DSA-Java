@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0704-binary-search) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0704-binary-search) |
