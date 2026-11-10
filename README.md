@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0412-fizz-buzz) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0062-unique-paths) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0306-additive-number) |
