@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0486-predict-the-winner) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
+| [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0633-sum-of-square-numbers) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
@@ -624,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0022-generate-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
