@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
