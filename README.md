@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
