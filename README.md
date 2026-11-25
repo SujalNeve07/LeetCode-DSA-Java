@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0456-132-pattern) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0450-delete-node-in-a-bst) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SujalNeve07/LeetCode-DSA-Java/tree/master/0450-delete-node-in-a-bst) |
